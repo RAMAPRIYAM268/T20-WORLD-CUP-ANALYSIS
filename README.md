@@ -242,7 +242,7 @@ T20-WORLD-CUP-ANALYSIS/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/T20-WORLD-CUP-ANALYSIS.git
+git clone(https://github.com/RAMAPRIYAM268/T20-WORLD-CUP-ANALYSIS.git)
 ```
 
 Navigate to the project directory:
